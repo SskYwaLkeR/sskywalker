@@ -1,7 +1,8 @@
 [![Header](https://github.com/SskYwaLkeR/sskywalker/blob/main/Github-header.png?raw=true  "Header")](https://some-url.dev/)
 
 
-### Hi there 👋
+### Hi there <img src="https://github.com/SskYwaLkeR/sskywalker/blob/main/wave.gif?raw=true" width="30px">
+
 
 <!--
 **SskYwaLkeR/sskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
