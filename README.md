@@ -2,7 +2,7 @@
 
 
 # Hello world, <img src="https://github.com/SskYwaLkeR/sskywalker/blob/main/wave.gif?raw=true" width="30px"> 
-<hr>
+
 
 My name is Hrishikesh and I'm frontend developer from India. I'm passionate about JavaScript, React, Vue, Frontend development, and Web performance. I love building softwares and have previously worked at We18 and Tuutr.
 
