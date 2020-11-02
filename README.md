@@ -59,6 +59,6 @@ My name is Hrishikesh and I'm frontend developer from India. I'm passionate abou
 " alt="npm" width="60" height="40"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sskywalker&theme=great-gatsby&bg_color=272343&title_color=f3c623&show_icons=true&text_color=faf4ff&icon_color=844685&locale=en" alt="sskywalker" /></p>
+
 
 
