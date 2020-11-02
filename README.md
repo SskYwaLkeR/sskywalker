@@ -24,7 +24,7 @@ My name is Hrishikesh and I'm frontend developer from India. I'm passionate abou
 
 ### Connect with me
 <p align="left">
-<a href="https://twitter.com/hrishikeshrai2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="hrishikeshrai2" height="30" width="30" /></a>
+<a href="https://twitter.com/hrishikeshrai2" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="hrishikeshrai2" height="30" width="35" /></a>
 <a href="https://instagram.com/hrishi_kesh_rai" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="hrishi_kesh_rai" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/hrishikesh-rai-b04a88179/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="hrishikesh linked in" height="30" width="40" /></a>
 <a href="mailto:hkrai39@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="hrishikesh linked in" height="30" width="40" /></a>
