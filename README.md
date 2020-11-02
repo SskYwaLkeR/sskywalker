@@ -33,7 +33,9 @@ My name is Hrishikesh and I'm frontend developer from India. I'm passionate abou
 ### My Values 
 
 🧠 Thoughtful & Inclusive Development
+
 💡  Mindset of Learning & Curiosity
+
 🙌 Teamwork & Communication
 
 
